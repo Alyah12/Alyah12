@@ -43,7 +43,7 @@ System.out.println("Estou aprendendo Java no momento e planejo ser Full-Stack em
 [twitter]: https://twitter.com/SEUTWITTER
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]:https://instagram.com/heberth_s17?igshid=OGQ5ZDc2ODk2ZA==
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[linkedin]: https://www.linkedin.com/in/heberth-santos-2a2a331b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 <br>
 
