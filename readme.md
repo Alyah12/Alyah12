@@ -10,7 +10,9 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 public class Alyah12 {
 public static void main (String[] args){
 
-System.out.println("Satisfação ! Shalom ou Yahallo, Sou Heberth Pólvora, sou estudante de Analíse e Desenvolvimento de Sistemas, no momento estou me aventurando no Java !");
+System.out.println("Satisfação ! Shalom ou Yahallo, Sou Heberth Pólvora, sou estudante de Analíse e Desenvolvimento de Sistemas.");
+
+System.out.println("Estou aprendendo Java no momento e planejo ser Full-Stack em Java e Angular.")
 
  }
 }
