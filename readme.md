@@ -7,12 +7,15 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```java
-public class Alyah12 {
-public static void main (String[] args){
+public class Apresentacao {
+    public static void main(String[] args) {
+        String nome = "Heberth Pólvora"; 
+        String profissao = "Desenvolvedor Back-end Java"; 
 
-System.out.println("Satisfação ! Shalom ou Yahallo, Sou Heberth Pólvora, sou estudante de Analíse e Desenvolvimento de Sistemas.");
-
-System.out.println("Estou aprendendo Java no momento e planejo ser Full-Stack em Java e Angular.")
+        String apresentacao = "Olá, meu nome é " + nome + " e sou um(a) " + profissao + ".";
+        System.out.println(apresentacao);
+    }
+}
 
  }
 }
