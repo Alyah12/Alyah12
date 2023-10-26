@@ -42,7 +42,7 @@ public class Apresentacao {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alyah12&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-![Snake animation](https://github.com/alyah12/alyah12/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Alyah12/Alyah12/blob/output/github-contribution-grid-snake.svg)
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
