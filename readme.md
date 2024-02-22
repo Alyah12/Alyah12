@@ -6,11 +6,11 @@
 
 ## ✨ Resumo ✨
   
-🧑 Tenho 17 anos
+🧑 Tenho 21 anos
 <br>
-🛠 Trabalho com front-end
+🛠 Trabalho com Back_End.
 <br>
-📚 Estou estudando React.js
+📚 Estou estudando >NET
 <br>
 🚗 Sou um amante de carros 
 <br> 
