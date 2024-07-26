@@ -6,13 +6,13 @@
 
 ## ✨ Resumo ✨
   
-🧑 Tenho 21 anos
+🧑 I'm 21 years old
 <br>
-🛠 Trabalho com Back_End.
+🛠 I'm working with Back-End Developement.
 <br>
-📚 Estou estudando .NET
+📚 I'm learning Dotnet.
 <br>
-🚗 Sou um amante de carros 
+🚗 I'm beloved in cars.
 <br> 
 ![Porsche](https://aleen42.github.io/badges/src/porsche.svg) ![Bmw](https://aleen42.github.io/badges/src/bmw.svg) ![Mercedes](https://aleen42.github.io/badges/src/mercedes_benz.svg) ![Ferrari](https://aleen42.github.io/badges/src/ferrari.svg)
 
@@ -31,7 +31,7 @@
   
 </div>
 
-<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h2 align="center" >⚒️ Frameworks ⚒️</h2>
 <br>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=html,css,javascript,c#,rider,github,git" />
