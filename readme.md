@@ -12,7 +12,7 @@
 <br>
 📚 I'm learning Dotnet.
 <br>
-🚗 I'm beloved in cars.
+🚗 I'm passionate about cars.
 <br> 
 ![Porsche](https://aleen42.github.io/badges/src/porsche.svg) ![Bmw](https://aleen42.github.io/badges/src/bmw.svg) ![Mercedes](https://aleen42.github.io/badges/src/mercedes_benz.svg) ![Ferrari](https://aleen42.github.io/badges/src/ferrari.svg)
 
