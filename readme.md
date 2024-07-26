@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oi+Pessoal!+👋;+Eu+sou+o+Alyah12+👨‍💻!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+People!+👋;+I+am+Alyah12+👨‍💻!;" />
 </h1>
 
 <div align="center">
@@ -49,7 +49,7 @@
 </div>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;+Volte+Sempre!+😁🙌" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=thank's+for+watching!;+See+You+Later!+😁🙌" />
 </h1>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ccff&height=120&section=footer"/>
