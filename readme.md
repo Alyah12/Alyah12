@@ -20,7 +20,7 @@
 
 <div align="center">
 
-  <h2 align="center">⚡ Estatisticas ⚡</h2>
+  <h2 align="center">⚡ Statics ⚡</h2>
 
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alyah12&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" alt="Samuxka github stats" /> 
