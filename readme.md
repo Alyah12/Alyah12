@@ -4,7 +4,7 @@
 
 <div align="center">
 
-## ✨ Resumo ✨
+## ✨ Summary ✨
   
 🧑 I'm 21 years old
 <br>
