@@ -10,7 +10,7 @@
 <br>
 🛠 I'm working with Back-End Developement.
 <br>
-📚 I'm learning Java Plataform
+📚 I'm learning .NET Plataform
 <br>
 🚗 I'm passionate about cars.
 <br> 
